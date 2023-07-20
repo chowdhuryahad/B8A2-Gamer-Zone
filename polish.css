@@ -164,6 +164,18 @@ header{
     object-fit: cover;
     margin-top: 20px;
 }
+<<<<<<< HEAD
+=======
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+:root{
+    --primary-color :linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+    --background-color :linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+}
+/* header design  */
+>>>>>>> 3a4a85a67c229e4f0250bd86db247ca60b3be035
 
 /* online games card section design  */
 .online-games-section{
